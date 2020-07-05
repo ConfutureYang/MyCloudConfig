@@ -1,3 +1,2 @@
-redis.host=127.0.0.1
-redis.port=6370
-ppp = ppp 2 23
+name = confuture
+age = 27
